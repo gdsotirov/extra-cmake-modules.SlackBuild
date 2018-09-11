@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: extra-cmake-modules.SlackBuild,v 1.1 2018/05/26 13:47:18 gsotirov Exp $
+# $Id: extra-cmake-modules.SlackBuild,v 1.2 2018/09/11 16:57:59 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=extra-cmake-modules
-VERSION=5.46.0
+VERSION=5.50.0
 BUILD=${BUILD:-1}
 ARCH=${ARCH:-i486}
 
