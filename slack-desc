@@ -15,4 +15,4 @@ extra-cmake-modules: build system.
 extra-cmake-modules: For more information visit the documentation
 extra-cmake-modules: at https://api.kde.org/ecm/
 extra-cmake-modules:
-extra-cmake-modules: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+extra-cmake-modules: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
